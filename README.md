@@ -1,2 +1,3 @@
-# Magento-Create-Module
-Create custom module with database
+# Magento Create Module
+Create custom module with database.
+
