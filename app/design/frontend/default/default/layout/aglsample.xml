@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <aglsample_index_index>
+        <reference name="content">
+            <block type="core/template" name="aglsample" template="aglsample/aglsample.phtml" />
+        </reference>
+    </aglsample_index_index>
+</layout> 
